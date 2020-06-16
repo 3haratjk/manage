@@ -369,6 +369,10 @@ footer .logo{
 
 @media (max-width: 768px){
 
+    body{
+        overflow-x: hidden;
+    }
+
     .nav-links{
         display: none;
         position: absolute;
